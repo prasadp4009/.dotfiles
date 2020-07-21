@@ -13,4 +13,4 @@ $ source genSymLinks.sh
 ```
 3. Above command will populate all necessary symlinks in home directory.
 
-**Note:** Make sure you create backup of your own files before symlinks are created.
+**Note:** Make sure you create backup of your own files before symlinks are created. I will not be responsible for any damage to your system. Please check license before use.
